@@ -208,7 +208,7 @@ export default function ArchitectureView() {
                         </tr>
                         <tr>
                             <td className="py-2 px-4 font-medium text-gray-800">Outlier Scan</td>
-                            <td className="py-2 px-4 text-gray-600">>20% deviations in Budget/Child cost ratios.</td>
+                            <td className="py-2 px-4 text-gray-600">&gt;20% deviations in Budget/Child cost ratios.</td>
                             <td className="py-2 px-4 text-right text-[#374EA2] font-bold">Flagged</td>
                         </tr>
                     </tbody>
