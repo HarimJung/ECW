@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< All By Harim Jung
 
 =======
 # ECW Technical Proposal Dashboard
@@ -62,4 +62,4 @@ This project is configured for seamless deployment on **Vercel**.
 3. Deploy.
 
 Live Demo: [https://ecw-x-harim-jung.vercel.app](https://ecw-x-harim-jung.vercel.app)
->>>>>>> bc44da7 (Add project documentation)
+>>>>>>> All By Harim Jung (Add project documentation)
